@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id:,perm_read,perm_write,perm_create,perm_unilink
+helpdesk_moises.access_helpdek_ticket,access_helpdesk_ticket,heklpdesk_moises.model_helpdesk_ticket,base.group_user,1,1,1,1
